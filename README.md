@@ -1,5 +1,5 @@
 # Adib Abd Aziz
-Hi there! 👋, I am Software Developer with experiences in delivering scalable, efficient, and robust web applications. Highly skilled in PHP and Laravel for backend development, Vue.js for dynamic front-end interfaces, and containerization using Docker to streamline development and deployment workflows. Proficient in leveraging AWS services to design and implement secure, high-availability cloud architectures. Expert in setting up GitHub Actions for automated deployment, ensuring seamless CI/CD workflows and reducing downtime during application updates.
+Hi there! 👋, I am Senior Software Developer with experiences in delivering scalable, efficient, and robust web applications. Highly skilled in PHP Laravel and NodeJS for backend development, VueJS and ReactJS for dynamic front-end interfaces, and containerization using Docker to streamline development and deployment workflows. Proficient in leveraging AWS services to design and implement secure, high-availability cloud architectures. Expert in setting up GitHub Actions for automated deployment, ensuring seamless CI/CD workflows and reducing downtime during application updates.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,9 @@ Hi there! 👋, I am Software Developer with experiences in delivering scalable,
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NodeJS](https://img.shields.io/badge/nodejs-39933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![ReactJS](https://img.shields.io/badge/reactjs-%23323330.svg?style=for-the-badge&logo=react&logoColor=%00DCFF)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Github Action](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
